@@ -10,8 +10,8 @@ public class App2 {
         // 3. get IoC container
         ApplicationContext ctx =  new ClassPathXmlApplicationContext("applicationContext.xml");
         // 4. get a bean
-        BookDao bookDao = (BookDao) ctx.getBean("bookDao");
-        bookDao.save();
+        //BookDao bookDao = (BookDao) ctx.getBean("bookDao");
+        //bookDao.save();
 
         BookService bookService = (BookService) ctx.getBean("bookService");
         bookService.save();

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/util https://www.springframework.org/schema/util/spring-util.xsd">
+
+<!--    <bean id="bookDao" class="com.brli.dao.impl.BookDaoImpl">-->
+<!--        <constructor-arg name="connectionNum" value="10"/>-->
+<!--        <constructor-arg name="databaseName" value="mysql"/>-->
+<!--    </bean>-->
+<!--    <bean id="userDao" class="com.brli.dao.impl.UserDaoImpl"/>-->
+
+<!--    <bean id="bookService" name="bookService" class="com.brli.service.impl.BookServiceImpl">-->
+<!--        <constructor-arg name="bookDao" ref="bookDao"/>-->
+<!--        <constructor-arg name="userDao" ref="userDao"/>-->
+<!--&lt;!&ndash;        <property name="userDao" ref="userDao"/>&ndash;&gt;-->
+<!--    </bean>-->
+    <bean id="bookDao" class="com.brli.dao.impl.BookDaoImpl">
+        <constructor-arg index="0" value="100"/>
+        <constructor-arg index="1" value="mysql"/>
+    </bean>
+    <bean id="userDao" class="com.brli.dao.impl.UserDaoImpl"/>
+
+    <bean id="bookService" name="bookService" class="com.brli.service.impl.BookServiceImpl">
+        <constructor-arg name="bookDao" ref="bookDao"/>
+        <constructor-arg name="userDao" ref="userDao"/>
+        <!--        <property name="userDao" ref="userDao"/>-->
+    </bean>
+</beans>
