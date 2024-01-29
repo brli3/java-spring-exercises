@@ -5,138 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f576f91-a9c2-49e2-9496-2b5c6d338672" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_02_base_config/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_02_base_config/src/main/java/com/brli/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_02_base_config/src/main/java/com/brli/App2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_02_base_config/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_02_base_config/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_02_base_config/src/main/java/com/brli/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_02_base_config/src/main/java/com/brli/service/impl/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_02_base_config/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_03_bean_instance/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_03_bean_instance/src/main/java/com/brli/AppForInstanceBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_03_bean_instance/src/main/java/com/brli/AppForInstanceOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_03_bean_instance/src/main/java/com/brli/AppForInstanceUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_03_bean_instance/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_03_bean_instance/src/main/java/com/brli/dao/OrderDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_03_bean_instance/src/main/java/com/brli/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_03_bean_instance/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_03_bean_instance/src/main/java/com/brli/dao/impl/OrderDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_03_bean_instance/src/main/java/com/brli/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_03_bean_instance/src/main/java/com/brli/factory/OrderDaoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_03_bean_instance/src/main/java/com/brli/factory/UserDaoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_03_bean_instance/src/main/java/com/brli/factory/UserDaoFactoryBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_03_bean_instance/src/main/java/com/brli/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_03_bean_instance/src/main/java/com/brli/service/impl/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_03_bean_instance/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_04_bean_lifecycle/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_04_bean_lifecycle/src/main/java/com/brli/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_04_bean_lifecycle/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_04_bean_lifecycle/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_04_bean_lifecycle/src/main/java/com/brli/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_04_bean_lifecycle/src/main/java/com/brli/service/impl/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_04_bean_lifecycle/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_05_di_set/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_05_di_set/src/main/java/com/brli/AppForDISet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_05_di_set/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_05_di_set/src/main/java/com/brli/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_05_di_set/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_05_di_set/src/main/java/com/brli/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_05_di_set/src/main/java/com/brli/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_05_di_set/src/main/java/com/brli/service/impl/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_05_di_set/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_06_di_constructor/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_06_di_constructor/src/main/java/com/brli/AppForDIConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_06_di_constructor/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_06_di_constructor/src/main/java/com/brli/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_06_di_constructor/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_06_di_constructor/src/main/java/com/brli/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_06_di_constructor/src/main/java/com/brli/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_06_di_constructor/src/main/java/com/brli/service/impl/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_06_di_constructor/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_07_di_auto/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_07_di_auto/src/main/java/com/brli/AppForDIAuto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_07_di_auto/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_07_di_auto/src/main/java/com/brli/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_07_di_auto/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_07_di_auto/src/main/java/com/brli/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_07_di_auto/src/main/java/com/brli/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_07_di_auto/src/main/java/com/brli/service/impl/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_07_di_auto/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_08_di_collection/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_08_di_collection/src/main/java/AppForDICollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_08_di_collection/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_08_di_collection/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_08_di_collection/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_09_datasource/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_09_datasource/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_09_datasource/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_09_datasource/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_09_datasource/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_09_datasource/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_10_container/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_10_container/src/main/java/AppForContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_10_container/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_10_container/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_10_container/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_11_annotation/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_11_annotation/src/main/java/AppForAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_11_annotation/src/main/java/AppForAnnotation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_11_annotation/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_11_annotation/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_11_annotation/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_11_annotation/src/main/java/com/brli/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_11_annotation/src/main/java/com/brli/service/impl/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_11_annotation/src/main/resources/applicationContext.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_12_annotation_manager/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_12_annotation_manager/src/main/java/com/brli/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_12_annotation_manager/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_12_annotation_manager/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_12_annotation_manager/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_12_annotation_manager/src/main/resources/applicationContext.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_13_annotation_di/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_13_annotation_di/src/main/java/com/brli/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_13_annotation_di/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_13_annotation_di/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_13_annotation_di/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_13_annotation_di/src/main/java/com/brli/dao/impl/BookDaoImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_13_annotation_di/src/main/java/com/brli/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_13_annotation_di/src/main/java/com/brli/service/impl/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_13_annotation_di/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_14_annotation_third_party/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_14_annotation_third_party/src/main/java/com/brli/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_14_annotation_third_party/src/main/java/com/brli/config/JdbcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_14_annotation_third_party/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_14_annotation_third_party/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_14_annotation_third_party/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_15_mybatis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_15_mybatis/src/main/java/com/brli/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_15_mybatis/src/main/java/com/brli/dao/AccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_15_mybatis/src/main/java/com/brli/domain/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_15_mybatis/src/main/java/com/brli/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_15_mybatis/src/main/java/com/brli/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_15_mybatis/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_16_junit/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_16_junit/src/main/java/com/brli/App2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_16_junit/src/main/java/com/brli/config/JdbcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_16_junit/src/main/java/com/brli/config/MybatisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_16_junit/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_16_junit/src/main/java/com/brli/dao/AccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_16_junit/src/main/java/com/brli/domain/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_16_junit/src/main/java/com/brli/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_16_junit/src/main/java/com/brli/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_16_junit/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_16_junit/src/main/resources/mybatis-config.xml.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_16_junit/src/test/java/com/brli/service/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_17_aop_demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_17_aop_demo/src/main/java/com/brli/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_18_aop_quickstart/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_18_aop_quickstart/src/main/java/com/brli/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_18_aop_quickstart/src/main/java/com/brli/aop/MyAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_18_aop_quickstart/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_18_aop_quickstart/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_18_aop_quickstart/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_19_aop_pointcut/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_19_aop_pointcut/src/main/java/com/brli/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_19_aop_pointcut/src/main/java/com/brli/aop/MyAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_19_aop_pointcut/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_19_aop_pointcut/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_19_aop_pointcut/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_20_aop_advice_type/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_20_aop_advice_type/src/main/java/com/brli/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_20_aop_advice_type/src/main/java/com/brli/aop/MyAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_20_aop_advice_type/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_20_aop_advice_type/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_20_aop_advice_type/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/java/com/brli/aop/ProjectAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/java/com/brli/config/JdbcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/java/com/brli/config/MybatisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/java/com/brli/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/java/com/brli/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/java/com/brli/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/java/com/brli/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/resources/mybatis-config.xml.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/test/java/com/brli/service/AccountServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/src/main/java/com/brli/App2.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_01_quickstart/src/main/java/com/brli/App2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/src/main/java/com/brli/service/impl/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_01_quickstart/src/main/java/com/brli/service/impl/BookServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_01_quickstart/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_05_di_set/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_06_di_constructor/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_auto/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_07_di_auto/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_08_di_collection/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_09_datasource/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_10_container/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation/src/main/resources/applicationContext.bak" beforeDir="false" afterPath="$PROJECT_DIR$/spring_11_annotation/src/main/resources/applicationContext.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_12_annotation_manager/src/main/resources/applicationContext.bak" beforeDir="false" afterPath="$PROJECT_DIR$/spring_12_annotation_manager/src/main/resources/applicationContext.bak" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,6 +60,7 @@
       <list>
         <option value="spring-beans.schema" />
         <option value="Interface" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -175,8 +88,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "jdk.selected.JAVA_MODULE": "21",
-    "last_opened_file_path": "/Users/brandon/Dev/2024/IdeaProjects/ssm/spring_16_junit",
+    "last_opened_file_path": "/Users/brandon/Dev/2024/IdeaProjects/ssm/spring_21_aop_service_runtime",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -194,14 +109,24 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring_21_aop_service_runtime" />
+      <recent name="$PROJECT_DIR$/spring_20_aop_advice_type" />
+      <recent name="$PROJECT_DIR$/spring_19_aop_pointcut/src/main/java" />
+      <recent name="$PROJECT_DIR$/spring_18_aop_quickstart/src/main/java" />
       <recent name="$PROJECT_DIR$/spring_16_junit" />
-      <recent name="$PROJECT_DIR$/spring_13_annotation_di/src" />
-      <recent name="$PROJECT_DIR$/spring_12_annotation_manager/src" />
-      <recent name="$PROJECT_DIR$/spring_11_annotation" />
-      <recent name="$PROJECT_DIR$/spring_10_container/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring_17_aop_demo/src/main/java/com/brli" />
+      <recent name="$PROJECT_DIR$/spring_17_aop_demo" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.brli.service" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.brli" />
@@ -210,10 +135,23 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AccountServiceTest.testFindById">
+  <component name="RunManager" selected="JUnit.AccountServiceTest">
+    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brli.App" />
+      <module name="spring_19_aop_pointcut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.brli.App" />
-      <module name="spring_15_mybatis" />
+      <module name="spring_20_aop_advice_type" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.brli.*" />
@@ -224,47 +162,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brli.App2" />
-      <module name="spring_15_mybatis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.brli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.brli.App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brli.App" />
-      <module name="spring_13_annotation_di" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.brli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.brli.App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brli.App" />
-      <module name="spring_14_annotation_third_party" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.brli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccountServiceTest.testFindById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring_16_junit" />
+    <configuration name="AccountServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_21_aop_service_runtime" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.brli.service.*" />
@@ -273,26 +172,57 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.brli.service" />
       <option name="MAIN_CLASS_NAME" value="com.brli.service.AccountServiceTest" />
-      <option name="METHOD_NAME" value="testFindById" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_21_aop_service_runtime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brli.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.brli.service" />
+      <option name="MAIN_CLASS_NAME" value="com.brli.service.AccountServiceTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.findById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_21_aop_service_runtime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brli.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.brli.service" />
+      <option name="MAIN_CLASS_NAME" value="com.brli.service.AccountServiceTest" />
+      <option name="METHOD_NAME" value="findById" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.App2" />
-      <item itemvalue="Application.com.brli.App (1)" />
-      <item itemvalue="Application.com.brli.App (2)" />
+      <item itemvalue="Application.App (3)" />
       <item itemvalue="Application.App" />
-      <item itemvalue="JUnit.AccountServiceTest.testFindById" />
+      <item itemvalue="JUnit.AccountServiceTest" />
+      <item itemvalue="JUnit.AccountServiceTest.findAll" />
+      <item itemvalue="JUnit.AccountServiceTest.findById" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AccountServiceTest.testFindById" />
-        <item itemvalue="Application.App2" />
+        <item itemvalue="JUnit.AccountServiceTest" />
+        <item itemvalue="JUnit.AccountServiceTest.findAll" />
+        <item itemvalue="JUnit.AccountServiceTest.findById" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.com.brli.App (1)" />
-        <item itemvalue="Application.com.brli.App (2)" />
+        <item itemvalue="Application.App (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +236,9 @@
       <updated>1705857094472</updated>
       <workItem from="1705857097550" duration="35541000" />
       <workItem from="1706132109540" duration="8267000" />
-      <workItem from="1706221865522" duration="1559000" />
+      <workItem from="1706221865522" duration="1576000" />
+      <workItem from="1706552317480" duration="87000" />
+      <workItem from="1706552417929" duration="7133000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -316,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705859710364</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1706267843717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706267843717</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

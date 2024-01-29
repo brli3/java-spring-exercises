@@ -14,8 +14,13 @@
         <module name="spring_05_di_set" />
         <module name="spring_08_di_collection" />
         <module name="spring_10_container" />
+        <module name="spring_20_aop_advice_type" />
+        <module name="spring_18_aop_quickstart" />
         <module name="spring_06_di_constructor" />
         <module name="spring_02_base_config" />
+        <module name="spring_21_aop_service_runtime" />
+        <module name="spring_19_aop_pointcut" />
+        <module name="spring_17_aop_demo" />
         <module name="spring_11_annotation" />
         <module name="spring_03_bean_instance" />
         <module name="spring_07_di_auto" />
