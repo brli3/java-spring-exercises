@@ -4,58 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f576f91-a9c2-49e2-9496-2b5c6d338672" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/spring_22_aop_advice_args/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_22_aop_advice_args/src/main/java/com/brli/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_22_aop_advice_args/src/main/java/com/brli/aop/MyAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_22_aop_advice_args/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_22_aop_advice_args/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_22_aop_advice_args/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_23_aop_case_handle_password/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_23_aop_case_handle_password/src/main/java/com/brli/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_23_aop_case_handle_password/src/main/java/com/brli/aop/MyAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_23_aop_case_handle_password/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_23_aop_case_handle_password/src/main/java/com/brli/dao/ResourceDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_23_aop_case_handle_password/src/main/java/com/brli/dao/impl/ResourceDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_23_aop_case_handle_password/src/main/java/com/brli/service/ResourceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_23_aop_case_handle_password/src/main/java/com/brli/service/impl/ResourceServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/java/com/brli/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/java/com/brli/config/JdbcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/java/com/brli/config/MybatisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/java/com/brli/dao/AccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/java/com/brli/domain/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/java/com/brli/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/java/com/brli/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/test/java/com/brli/service/impl/AccountServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/config/JdbcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/config/MybatisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/dao/AccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/dao/LogDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/domain/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/service/LogService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/service/impl/LogServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/test/java/com/brli/service/impl/AccountServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_05_di_set/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_05_di_set/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_06_di_constructor/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_07_di_auto/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_07_di_auto/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_08_di_collection/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_09_datasource/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_09_datasource/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_10_container/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_10_container/src/main/resources/applicationContext.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7f576f91-a9c2-49e2-9496-2b5c6d338672" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -273,7 +222,7 @@
       <workItem from="1706221865522" duration="1576000" />
       <workItem from="1706552317480" duration="87000" />
       <workItem from="1706552417929" duration="7459000" />
-      <workItem from="1706638778434" duration="7376000" />
+      <workItem from="1706638778434" duration="7684000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -299,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706570250937</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="transaction done">
+      <option name="closed" value="true" />
+      <created>1706651556580</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706651556580</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,6 +265,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="aop" />
-    <option name="LAST_COMMIT_MESSAGE" value="aop" />
+    <MESSAGE value="transaction done" />
+    <option name="LAST_COMMIT_MESSAGE" value="transaction done" />
   </component>
 </project>
