@@ -5,41 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f576f91-a9c2-49e2-9496-2b5c6d338672" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/spring_17_aop_demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_17_aop_demo/src/main/java/com/brli/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_18_aop_quickstart/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_18_aop_quickstart/src/main/java/com/brli/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_18_aop_quickstart/src/main/java/com/brli/aop/MyAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_18_aop_quickstart/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_18_aop_quickstart/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_18_aop_quickstart/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_19_aop_pointcut/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_19_aop_pointcut/src/main/java/com/brli/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_19_aop_pointcut/src/main/java/com/brli/aop/MyAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_19_aop_pointcut/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_19_aop_pointcut/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_19_aop_pointcut/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_20_aop_advice_type/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_20_aop_advice_type/src/main/java/com/brli/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_20_aop_advice_type/src/main/java/com/brli/aop/MyAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_20_aop_advice_type/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_20_aop_advice_type/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_20_aop_advice_type/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/java/com/brli/aop/ProjectAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/java/com/brli/config/JdbcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/java/com/brli/config/MybatisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/java/com/brli/dao/AccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/java/com/brli/domain/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/java/com/brli/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/java/com/brli/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/main/resources/mybatis-config.xml.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_21_aop_service_runtime/src/test/java/com/brli/service/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_22_aop_advice_args/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_22_aop_advice_args/src/main/java/com/brli/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_22_aop_advice_args/src/main/java/com/brli/aop/MyAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_22_aop_advice_args/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_22_aop_advice_args/src/main/java/com/brli/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_22_aop_advice_args/src/main/java/com/brli/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_23_aop_case_handle_password/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_23_aop_case_handle_password/src/main/java/com/brli/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_23_aop_case_handle_password/src/main/java/com/brli/aop/MyAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_23_aop_case_handle_password/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_23_aop_case_handle_password/src/main/java/com/brli/dao/ResourceDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_23_aop_case_handle_password/src/main/java/com/brli/dao/impl/ResourceDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_23_aop_case_handle_password/src/main/java/com/brli/service/ResourceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_23_aop_case_handle_password/src/main/java/com/brli/service/impl/ResourceServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/java/com/brli/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/java/com/brli/config/JdbcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/java/com/brli/config/MybatisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/java/com/brli/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/java/com/brli/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/java/com/brli/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/java/com/brli/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_24_transaction_money_inout/src/test/java/com/brli/service/impl/AccountServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/config/JdbcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/config/MybatisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/dao/LogDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/service/LogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/java/com/brli/service/impl/LogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_25_transaction_log/src/test/java/com/brli/service/impl/AccountServiceImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring_05_di_set/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_05_di_set/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_06_di_constructor/src/main/resources/applicationContext.xml" afterDir="false" />
@@ -47,8 +55,6 @@
       <change beforePath="$PROJECT_DIR$/spring_08_di_collection/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_08_di_collection/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring_09_datasource/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_09_datasource/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring_10_container/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_10_container/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_11_annotation/src/main/resources/applicationContext.bak" beforeDir="false" afterPath="$PROJECT_DIR$/spring_11_annotation/src/main/resources/applicationContext.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_12_annotation_manager/src/main/resources/applicationContext.bak" beforeDir="false" afterPath="$PROJECT_DIR$/spring_12_annotation_manager/src/main/resources/applicationContext.bak" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +65,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
-        <option value="Interface" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -91,7 +97,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "jdk.selected.JAVA_MODULE": "21",
-    "last_opened_file_path": "/Users/brandon/Dev/2024/IdeaProjects/ssm/spring_21_aop_service_runtime",
+    "last_opened_file_path": "/Users/brandon/Dev/2024/IdeaProjects/ssm/spring_25_transaction_log",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -109,11 +115,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring_25_transaction_log" />
+      <recent name="$PROJECT_DIR$/spring_24_transaction_money_inout" />
+      <recent name="$PROJECT_DIR$/spring_23_aop_case_handle_password" />
       <recent name="$PROJECT_DIR$/spring_21_aop_service_runtime" />
       <recent name="$PROJECT_DIR$/spring_20_aop_advice_type" />
-      <recent name="$PROJECT_DIR$/spring_19_aop_pointcut/src/main/java" />
-      <recent name="$PROJECT_DIR$/spring_18_aop_quickstart/src/main/java" />
-      <recent name="$PROJECT_DIR$/spring_16_junit" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/spring_17_aop_demo/src/main/java/com/brli" />
@@ -126,6 +132,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.brli.service.impl" />
       <recent name="com.brli.service" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -135,7 +142,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AccountServiceTest">
+  <component name="RunManager" selected="JUnit.AccountServiceImplTest.testTransfer (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brli.App" />
+      <module name="spring_24_transaction_money_inout" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.brli.App" />
       <module name="spring_19_aop_pointcut" />
@@ -151,7 +171,7 @@
     </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.brli.App" />
-      <module name="spring_20_aop_advice_type" />
+      <module name="spring_22_aop_advice_args" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.brli.*" />
@@ -162,39 +182,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring_21_aop_service_runtime" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brli.App" />
+      <module name="spring_23_aop_case_handle_password" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.brli.service.*" />
+          <option name="PATTERN" value="com.brli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.brli.service" />
-      <option name="MAIN_CLASS_NAME" value="com.brli.service.AccountServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountServiceTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring_21_aop_service_runtime" />
+    <configuration name="AccountServiceImplTest.testTransfer (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_25_transaction_log" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.brli.service.*" />
+          <option name="PATTERN" value="com.brli.service.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.brli.service" />
-      <option name="MAIN_CLASS_NAME" value="com.brli.service.AccountServiceTest" />
-      <option name="METHOD_NAME" value="findAll" />
+      <option name="PACKAGE_NAME" value="com.brli.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.brli.service.impl.AccountServiceImplTest" />
+      <option name="METHOD_NAME" value="testTransfer" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountServiceTest.findById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring_21_aop_service_runtime" />
+    <configuration name="AccountServiceImplTest.testTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_24_transaction_money_inout" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brli.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.brli.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.brli.service.impl.AccountServiceImplTest" />
+      <option name="METHOD_NAME" value="testTransfer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testFindById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_16_junit" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.brli.service.*" />
@@ -203,26 +237,26 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.brli.service" />
       <option name="MAIN_CLASS_NAME" value="com.brli.service.AccountServiceTest" />
-      <option name="METHOD_NAME" value="findById" />
+      <option name="METHOD_NAME" value="testFindById" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.App (3)" />
-      <item itemvalue="Application.App" />
-      <item itemvalue="JUnit.AccountServiceTest" />
-      <item itemvalue="JUnit.AccountServiceTest.findAll" />
-      <item itemvalue="JUnit.AccountServiceTest.findById" />
+      <item itemvalue="Application.App (2)" />
+      <item itemvalue="Application.App (1)" />
+      <item itemvalue="JUnit.AccountServiceImplTest.testTransfer" />
+      <item itemvalue="JUnit.AccountServiceImplTest.testTransfer (1)" />
+      <item itemvalue="JUnit.AccountServiceTest.testFindById" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AccountServiceTest" />
-        <item itemvalue="JUnit.AccountServiceTest.findAll" />
-        <item itemvalue="JUnit.AccountServiceTest.findById" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.App (3)" />
+        <item itemvalue="JUnit.AccountServiceImplTest.testTransfer (1)" />
+        <item itemvalue="JUnit.AccountServiceImplTest.testTransfer" />
+        <item itemvalue="JUnit.AccountServiceTest.testFindById" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +272,8 @@
       <workItem from="1706132109540" duration="8267000" />
       <workItem from="1706221865522" duration="1576000" />
       <workItem from="1706552317480" duration="87000" />
-      <workItem from="1706552417929" duration="7133000" />
+      <workItem from="1706552417929" duration="7459000" />
+      <workItem from="1706638778434" duration="7376000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -256,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706267843717</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="aop">
+      <option name="closed" value="true" />
+      <created>1706570250937</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706570250937</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,6 +307,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="aop" />
+    <option name="LAST_COMMIT_MESSAGE" value="aop" />
   </component>
 </project>
