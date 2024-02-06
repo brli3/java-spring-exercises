@@ -1,0 +1,11 @@
+server:
+  port: 81
+
+logging:
+  level:
+    root: info
+
+hobbies:
+  - reading
+  - travelling
+  - coding
